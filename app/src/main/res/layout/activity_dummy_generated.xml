@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:fillViewport="false"
+        android:background="#FAF414">
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginBottom="10dp"
+            android:id="@+id/buttons">
+        <TextView
+                android:text="Attività"
+                android:layout_width="match_parent"
+                android:layout_height="110dp" android:id="@+id/textView" android:layout_weight="1"
+                android:textSize="50sp" android:textAlignment="center" android:textColor="@android:color/background_dark"
+                android:layout_marginTop="80dp"/>
+        <Button
+                style="?android:attr/buttonBarButtonStyle"
+                android:text="Play"
+                android:layout_margin="10dp"
+                android:textColor="@android:color/white"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:id="@+id/b1" android:layout_weight="1"
+                android:textSize="50sp"
+                android:background="#3a3a3a"/>
+        <Button
+                style="?android:attr/buttonBarButtonStyle"
+                android:text="Study"
+                android:layout_margin="10dp"
+                android:textColor="@android:color/white"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:id="@+id/b2" android:layout_weight="1"
+                android:textSize="50sp"
+                android:background="#3a3a3a"/>
+        <Button
+                style="?android:attr/buttonBarButtonStyle"
+                android:text="Talk"
+                android:layout_margin="10dp"
+                android:textColor="@android:color/white"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:id="@+id/b3" android:layout_weight="1"
+                android:textSize="50sp"
+                android:background="#3a3a3a"/>
+        <Button
+                style="?android:attr/buttonBarButtonStyle"
+                android:text="TV"
+                android:layout_margin="10dp"
+                android:textColor="@android:color/white"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:id="@+id/b4" android:layout_weight="1"
+                android:textSize="50sp"
+                android:background="#3a3a3a"/>
+        <Button
+                style="?android:attr/buttonBarButtonStyle"
+                android:text="Try"
+                android:layout_margin="10dp"
+                android:textColor="@android:color/white"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:id="@+id/b5" android:layout_weight="1"
+                android:textSize="50sp"
+                android:background="#3a3a3a"/>
+        <Button
+                style="?android:attr/buttonBarButtonStyle"
+                android:text="Try"
+                android:layout_margin="10dp"
+                android:textColor="@android:color/white"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:id="@+id/b6" android:layout_weight="1"
+                android:textSize="50sp"
+                android:background="#3a3a3a"/>
+    </LinearLayout>
+</ScrollView>

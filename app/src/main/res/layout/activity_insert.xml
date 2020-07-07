@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".InsertActivity"
+        android:orientation="vertical"
+        android:background="#FAF414">
+    <ScrollView android:layout_width="match_parent" android:layout_height="wrap_content">
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:id="@+id/buttons">
+        <TextView
+                android:text="Crea Bottone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:id="@+id/ok"
+                android:textSize="50sp" android:textAlignment="center"
+                android:textColor="@android:color/background_dark"
+                android:layout_marginTop="80dp"
+                android:layout_marginBottom="50dp" android:textStyle="bold"/>
+        <TextView
+                android:text="Macro:"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:id="@+id/mac"
+                android:textAppearance="@style/Base.TextAppearance.MaterialComponents.Button"
+                android:fontFamily="sans-serif" android:typeface="normal"
+                android:textSize="40sp"  android:textColor="@android:color/holo_red_dark"/>
+        <Spinner
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:id="@+id/macros"
+                android:backgroundTint="@color/colorPrimary"/>
+        <TextView
+                android:text="Categoria:"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:id="@+id/cat"
+                android:textAppearance="@style/Base.TextAppearance.MaterialComponents.Button"
+                android:fontFamily="sans-serif" android:typeface="normal"
+                android:textSize="40sp"  android:textColor="@android:color/holo_red_dark"/>
+        <Spinner
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:id="@+id/categorie"
+                android:backgroundTint="@color/colorPrimary"/>
+        <TextView
+                android:text="Nome:"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:id="@+id/nm"
+                android:textAppearance="@style/Base.TextAppearance.MaterialComponents.Button"
+                android:fontFamily="sans-serif" android:typeface="normal"
+                android:textSize="40sp"  android:textColor="@android:color/holo_red_dark"/>
+        <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPersonName"
+                android:hint="Nome"
+                android:textSize="40sp"
+                android:backgroundTint="@android:color/background_dark"
+                android:textColorHint="@android:color/background_dark"
+                android:textColor="@android:color/background_dark"
+                android:ems="10"
+                android:id="@+id/name"/>
+        <TextView
+                android:text="Testo:"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:id="@+id/txt"
+                android:textAppearance="@style/Base.TextAppearance.MaterialComponents.Button"
+                android:fontFamily="sans-serif" android:typeface="normal"
+                android:textSize="40sp"  android:textColor="@android:color/holo_red_dark"/>
+        <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textMultiLine"
+                android:hint="Testo"
+                android:backgroundTint="@android:color/background_dark"
+                android:textColorHint="@android:color/background_dark"
+                android:textSize="40sp"
+                android:textColor="@android:color/background_dark"
+                android:ems="10"
+                android:id="@+id/text"/>
+        <Button
+                style="?android:attr/buttonBarButtonStyle"
+                android:text="Aggiungi"
+                android:textColor="@android:color/white"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/invio"
+                android:textSize="50sp"
+                android:layout_marginTop="80dp"
+                android:background="#3a3a3a" />
+    </LinearLayout>
+    </ScrollView>
+</LinearLayout>

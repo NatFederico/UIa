@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UIa</string>
+    <string-array name="macros">
+        <item>Attività</item>
+        <item>Necessità</item>
+        <item>Discuti</item>
+    </string-array>
+    <string-array name="categories">
+        <item>-----</item>
+        <item>Fame</item>
+        <item>Sete</item>
+        <item>Sentimenti</item>
+        <item>Ho bisogno</item>
+    </string-array>
+</resources>
