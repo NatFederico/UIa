@@ -1,0 +1,250 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:2:1-78:12
+MERGED from [com.google.android.material:material:1.1.0-rc02] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\b2074809ebff6f04202250ec984349a3\material-1.1.0-rc02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\37ec02f661e3547c5499ecdfd9f3cd1f\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\44b43c631f9d3130f3b36fbe05d17380\constraintlayout-1.1.2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\ccc4f60e4549c263b614feec2a027fa2\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\b0149f4c947c05b760f5cf06ab6d8060\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\8d8ddb8800374545c224b77b34d0f1a2\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\dd07e922b5233b833d82ee834e6becf7\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\beed28e19d4f55ab2c17aff66e0bc400\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\e0d80e5c178a0db065288a448fc598ef\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\4336eb59d7e582316997572d66343b15\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\add2bdb41de46d90e5d3bd4e75929820\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\34085af895daa23049fd0af188e6a001\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\2bf200c3ed6f794fd90e7a7e5e0ea6de\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\f3997ce16a5c00ae84a772d300d0e1e8\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\740a70a0c89c8c085b6e012b4bd7790e\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\331f61861c2d3a925f2252286afb1f53\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\daa47187fb0f0a7c419d1b10e1677cdd\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\aa91d8d2653c363bbd5da9d9892260d3\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\0554424e228349ffc3db0700d1324aa1\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\bad233a64070d55cab9a83b26afbf154\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\7acef2a7bfef3795312317efec15d83e\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\d4ef17d609918d2a5f5a86d1ea02678f\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\420f294924962582b4c42c622af43461\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\66e997bde0b6ece28f7fd36f5f4a1584\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\8787729f29cf7add1bc29c81caccddfd\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:2:1-78:12
+	package
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:3:11-36
+		INJECTED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:2:1-78:12
+		INJECTED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:2:1-78:12
+		INJECTED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:8:5-76:19
+MERGED from [com.google.android.material:material:1.1.0-rc02] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\b2074809ebff6f04202250ec984349a3\material-1.1.0-rc02\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-rc02] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\b2074809ebff6f04202250ec984349a3\material-1.1.0-rc02\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\44b43c631f9d3130f3b36fbe05d17380\constraintlayout-1.1.2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\44b43c631f9d3130f3b36fbe05d17380\constraintlayout-1.1.2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:13:13-39
+	android:label
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:11:13-45
+	android:roundIcon
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:12:13-45
+	android:icon
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:10:13-40
+	android:allowBackup
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:9:13-39
+	android:theme
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:14:13-63
+	android:usesCleartextTraffic
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:15:13-48
+uses-library#org.apache.http.legacy
+ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:16:9-18:43
+	android:required
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:18:17-41
+	android:name
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:17:17-54
+activity#com.example.uia.AddActivity
+ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:19:9-20:20
+	android:name
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:19:19-46
+activity#com.example.uia.InsertActivity
+ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:21:9-22:20
+	android:name
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:21:19-49
+activity#com.example.uia.StorageActivity
+ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:23:9-24:20
+	android:name
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:23:19-50
+activity#com.example.uia.CustomIndexActivity
+ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:25:9-26:20
+	android:name
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:25:19-54
+activity#com.example.uia.HobbyActivity
+ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:27:9-30:20
+	android:screenOrientation
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:29:17-53
+	android:name
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:28:17-46
+activity#com.example.uia.DiscussActivity
+ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:31:9-34:20
+	android:screenOrientation
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:33:17-53
+	android:name
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:32:17-48
+activity#com.example.uia.NeedActivity
+ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:35:9-38:20
+	android:screenOrientation
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:37:17-53
+	android:name
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:36:17-45
+activity#com.example.uia.FeelingsActivity
+ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:39:9-42:20
+	android:screenOrientation
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:41:17-53
+	android:name
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:40:17-49
+activity#com.example.uia.DrinkActivity
+ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:43:9-46:20
+	android:screenOrientation
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:45:17-53
+	android:name
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:44:17-46
+activity#com.example.uia.PhrasesActivity
+ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:47:9-50:20
+	android:screenOrientation
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:49:17-53
+	android:name
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:48:17-48
+activity#com.example.uia.SnackActivity
+ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:51:9-54:20
+	android:screenOrientation
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:53:17-53
+	android:name
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:52:17-46
+activity#com.example.uia.FoodActivity
+ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:55:9-58:20
+	android:screenOrientation
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:57:17-53
+	android:name
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:56:17-45
+activity#com.example.uia.NecessitiesActivity
+ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:59:9-62:20
+	android:screenOrientation
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:61:17-53
+	android:name
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:60:17-52
+activity#com.example.uia.DummyGenerated
+ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:63:9-66:20
+	android:screenOrientation
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:65:17-53
+	android:name
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:64:17-47
+activity#com.example.uia.MainActivity
+ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:67:9-75:20
+	android:screenOrientation
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:69:17-53
+	android:name
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:68:17-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:70:13-74:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:71:17-68
+	android:name
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:71:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:73:17-76
+	android:name
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml:73:27-74
+uses-sdk
+INJECTED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0-rc02] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\b2074809ebff6f04202250ec984349a3\material-1.1.0-rc02\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-rc02] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\b2074809ebff6f04202250ec984349a3\material-1.1.0-rc02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\37ec02f661e3547c5499ecdfd9f3cd1f\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\37ec02f661e3547c5499ecdfd9f3cd1f\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\44b43c631f9d3130f3b36fbe05d17380\constraintlayout-1.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\44b43c631f9d3130f3b36fbe05d17380\constraintlayout-1.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\ccc4f60e4549c263b614feec2a027fa2\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\ccc4f60e4549c263b614feec2a027fa2\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\b0149f4c947c05b760f5cf06ab6d8060\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\b0149f4c947c05b760f5cf06ab6d8060\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\8d8ddb8800374545c224b77b34d0f1a2\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\8d8ddb8800374545c224b77b34d0f1a2\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\dd07e922b5233b833d82ee834e6becf7\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\dd07e922b5233b833d82ee834e6becf7\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\beed28e19d4f55ab2c17aff66e0bc400\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\beed28e19d4f55ab2c17aff66e0bc400\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\e0d80e5c178a0db065288a448fc598ef\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\e0d80e5c178a0db065288a448fc598ef\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\4336eb59d7e582316997572d66343b15\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\4336eb59d7e582316997572d66343b15\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\add2bdb41de46d90e5d3bd4e75929820\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\add2bdb41de46d90e5d3bd4e75929820\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\34085af895daa23049fd0af188e6a001\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\34085af895daa23049fd0af188e6a001\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\2bf200c3ed6f794fd90e7a7e5e0ea6de\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\2bf200c3ed6f794fd90e7a7e5e0ea6de\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\f3997ce16a5c00ae84a772d300d0e1e8\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\f3997ce16a5c00ae84a772d300d0e1e8\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\740a70a0c89c8c085b6e012b4bd7790e\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\740a70a0c89c8c085b6e012b4bd7790e\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\331f61861c2d3a925f2252286afb1f53\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\331f61861c2d3a925f2252286afb1f53\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\daa47187fb0f0a7c419d1b10e1677cdd\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\daa47187fb0f0a7c419d1b10e1677cdd\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\aa91d8d2653c363bbd5da9d9892260d3\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\aa91d8d2653c363bbd5da9d9892260d3\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\0554424e228349ffc3db0700d1324aa1\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\0554424e228349ffc3db0700d1324aa1\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\bad233a64070d55cab9a83b26afbf154\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\bad233a64070d55cab9a83b26afbf154\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\7acef2a7bfef3795312317efec15d83e\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\7acef2a7bfef3795312317efec15d83e\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\d4ef17d609918d2a5f5a86d1ea02678f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\d4ef17d609918d2a5f5a86d1ea02678f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\420f294924962582b4c42c622af43461\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\420f294924962582b4c42c622af43461\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\66e997bde0b6ece28f7fd36f5f4a1584\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\66e997bde0b6ece28f7fd36f5f4a1584\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\8787729f29cf7add1bc29c81caccddfd\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\feder\.gradle\caches\transforms-2\files-2.1\8787729f29cf7add1bc29c81caccddfd\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\feder\OneDrive\Desktop\School\Paid Projects\Franco\Android\UIa\app\src\main\AndroidManifest.xml
