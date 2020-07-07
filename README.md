@@ -9,5 +9,7 @@ It's a simple text-to-speech app aimed to people with handicaps.
 - [Contributors](#contributors)
 
 ## Discuss the project
+It's a pain in the ass
 ### The future
+Not bright for sure
 ## Contributors
